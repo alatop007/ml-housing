@@ -6,3 +6,4 @@ jinja2
 uvicorn
 gunicorn
 xgboost
+python-multipart
