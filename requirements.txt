@@ -1,6 +1,11 @@
-Flask
+fastapi
 scikit-learn
 pandas
 numpy
 matplotlib
 seaborn
+pydantic 
+xgboost
+jinja2
+uvicorn
+gunicorn
