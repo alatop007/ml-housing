@@ -7,3 +7,4 @@ uvicorn
 gunicorn
 xgboost
 python-multipart
+scikit-learn
